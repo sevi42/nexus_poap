@@ -39,7 +39,6 @@ cisco
     │ └── nxos.7.0.3.I2.2e.bin
     └── poap
         ├── 93120TX_poap.py
-        ├── 93120TX_poap.py.md5
         ├── build.sh
         ├── readme.md
 ````
