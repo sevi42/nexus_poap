@@ -21,11 +21,11 @@ subnet 10.0.0.0 netmask 255.255.255.0 {
        max-lease-time 3600;
    }
 }
+````
 
 You also need a http server with this file tree
 
 ````
-
 cisco
 └── n9k
     ├── cnf
@@ -42,6 +42,7 @@ cisco
         ├── 93120TX_poap.py.md5
         ├── build.sh
         ├── readme.md
+````
 
 
 Poap script will look for the version and then the config based on top switch/router cdp name and remote port name
